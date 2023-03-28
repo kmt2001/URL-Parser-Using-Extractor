@@ -1,3 +1,5 @@
+## This Project follows all the criteria of best coding practices!
+
 Proper Naming Convention (Does the variable name describe what it holds, Does the method name specify what it is doing)
 Are there typos in the codebase?
 Magic Numbers (Should not exist)
